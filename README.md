@@ -9,7 +9,7 @@ Este proyecto es una aplicación de escritorio desarrollada en Java que permite 
 
 ## Instalación
 1. Clona este repositorio:
-   git clone https://github.com/TU_USUARIO/SistemaPedidosFarmacia.git
+   git clone https://github.com/EdwinIvanS/SistemaPedidosFarmacia.git
 
 ## Uso
 1. Al iniciar la aplicación, se presentará un formulario para ingresar los detalles del pedido.
